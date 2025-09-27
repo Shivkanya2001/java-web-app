@@ -1,6 +1,6 @@
 <html>
 <body>
-    <h2>Welcome to My Simple Java App</h2>
+    <h2>Java Application deployed by Shivkanya</h2>
     <a href="hello">Click here for Hello Servlet</a>
 </body>
 </html>
